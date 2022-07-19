@@ -8,8 +8,13 @@ Once the application is cloned to your local device, you will be able to Squeliz
 
 
 Media:
-Git Repo Link - https://github.com/coreylevine2000/hw-13-E-Commerce-Back-End
+Git Repo Link:
+https://github.com/coreylevine2000/hw-13-E-Commerce-Back-End
 
 Video Link:
+https://vimeo.com/731207376/e467c8c4ad
 
 Images:
+![plot](./assests/Screenshot%202022-07-18%20215923.png)
+![plot](./assests/2.png)
+![plot](./assests/3.png)
